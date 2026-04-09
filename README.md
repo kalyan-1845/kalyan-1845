@@ -1,18 +1,18 @@
 <!-- 🔥 Top Waving Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Hi,%20I'm%20Kalyan%20👋&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Hi,%20I'm%20Kalyan%20Reddy%20👋&fontSize=45&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <!-- 🚀 Dynamic Typing Subheader -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Tomorrow's+AI+Today+🚀;Privacy-First+Cybersecurity+Systems;Full+Stack+%2B+App+Development;Turning+Ideas+Into+Production-Ready+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bhoompally+Kalyan+Reddy+🚀;Full+Stack+++Cybersecurity;Building+Tomorrow's+AI+Today;Turning+Ideas+Into+Production-Ready+Products" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I am a **Systems-driven Developer** focused on building high-impact, real-world solutions. My expertise lies at the intersection of **AI, Cybersecurity, and Scalable Full Stack Architecture**. I don't just write code; I design intelligent systems that prioritize user privacy and operational efficiency.
+I am **Bhoompally Kalyan Reddy**, a **Systems-driven Developer** focused on building high-impact, real-world solutions. My expertise lies at the intersection of **AI, Cybersecurity, and Scalable Full Stack Architecture**. I don't just write code; I design intelligent systems that prioritize user privacy and operational efficiency.
 
 - 🎓 **Engineering focused** on Cloud & Autonomous Systems
 - 🤖 **AI Builder**: Specializing in Offline-First AI Agents (Gemma, Qwen)
@@ -77,6 +77,13 @@ I am a **Systems-driven Developer** focused on building high-impact, real-world 
 
 ---
 
+## 🧠 Currently Deep-Diving Into
+- 🤖 **Autonomous AI Agents** & Multi-Agent Orchestration
+- 🔐 **Privacy-Preserving Computation** (Local-first ML)
+- ☁️ **High-Concurrency Systems** & Scalable Backend Architecture
+
+---
+
 ## 📊 Performance Metrics
 
 <p align="center">
@@ -90,6 +97,13 @@ I am a **Systems-driven Developer** focused on building high-impact, real-world 
 
 ---
 
+## 🏆 Profile Statistics & Impact
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kalyan-1845&label=Profile+Views&color=00F7FF&style=flat-square" alt="Visitor Counter" />
+</p>
+
+---
+
 ## ⚡ Developer Mindset
 
 > "I believe the best technology is invisible, secure, and solves problems that people actually face. My goal is to bridge the gap between complex AI research and practical, impactful products."
@@ -99,13 +113,13 @@ I am a **Systems-driven Developer** focused on building high-impact, real-world 
 ## 🌐 Connectivity Gateway
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/bhoompally-kalyanreddy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:prsnlkalyan2@gmail.com">
+  <a href="mailto:prsnlkalyan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://kalyan-portfolio.vercel.app">
+  <a href="https://kalyanport.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
