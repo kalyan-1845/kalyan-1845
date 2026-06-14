@@ -7,7 +7,7 @@
 
 <!-- 🚀 Dynamic Typing Subheader -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Systems-Driven+Developer+🚀;Specializing+in+Offline-First+AI;Cybersecurity+%26+Neural-Shield+Systems;Project+Maintainer+%40+NSoC+'26;Contributor+%40+GSSoC+%26+SSoC;Turning+Ideas+Into+Production-Ready+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Systems-Driven+Developer+🚀;Specializing+in+Offline-First+AI;8%2C500%2B+GitHub+Contributions;Project+Maintainer+%40+NSoC+'26;Contributor+%40+GSSoC+%26+SSoC;Turning+Ideas+Into+Production-Ready+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,6 +29,7 @@
 I am a **Systems-Driven Developer** focused on building secure, intelligent, and highly scalable solutions. My expertise lies at the intersection of **On-Device Artificial Intelligence (Edge LLMs), Real-Time Cybersecurity, and Scalable Full-Stack Architecture**. 
 
 * 🎓 **Academic Background**: B.Tech in Computer Science & Engineering (CGPA: 8.5/10) at ACE Engineering College (2024 - 2028).
+* 📈 **Proven Code Consistency**: Achieved **8,544 contributions** in the last year, demonstrating active development cycles and deep technical commitment.
 * 🤖 **Edge AI Advocate**: Architecting lightweight, offline-first systems using local LLMs (Gemma, Qwen) to prioritize data privacy.
 * 🛡️ **Cybersecurity Researcher**: Developing real-time threat-detection engines and neural-shield systems to secure application entry points.
 * ⚡ **Product Engineer**: Bridging the gap between complex research and deployment-ready, highly interactive products.
@@ -150,6 +151,7 @@ I am a **Systems-Driven Developer** focused on building secure, intelligent, and
 
 | Metric | Target / Impact | Status |
 | :--- | :--- | :--- |
+| 💻 **GitHub Contributions** | **8,544 contributions in the last year** | Highly Active |
 | 👥 **Open Source Influence** | Maintainer for Lexicon (794+ commits, 95 branches) | Ranked #54 NSoC |
 | 🤖 **AuraCore AI Uptime** | 98% platform uptime across 100+ daily queries | Stable |
 | 🛡️ **Neural Guard Latency** | < 200ms audio processing / Vosk pipeline | Optimized |
@@ -169,12 +171,11 @@ I am a **Systems-Driven Developer** focused on building secure, intelligent, and
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan-1845&layout=compact&theme=tokyonight&border_radius=10" height="170" alt="Top Languages" />
 </p>
 
-> 💡 **Note on GitHub Stats**: These stats cards update dynamically based on public GitHub contributions. If you want your private work contributions (from your private college, client, or personal repositories) to show up on these cards, make sure to enable the **"Private contributions"** setting in your GitHub Profile settings!
-
 ---
 
 ## 🏆 Key Achievements & Certifications
 
+* **GitHub Consistency**: Logged **8,544 contributions** in 2026 alone.
 * **Competitive Coding**: Ranked **Top 4 / 200+** in the ACE Code Sprint 2026.
 * **National Hackathons**: Ranked **Top 7** in the KL University National Hackathon.
 * **IIT Bombay**: Certified in Python Programming.
@@ -186,4 +187,3 @@ I am a **Systems-Driven Developer** focused on building secure, intelligent, and
 ## ⚡ Developer Philosophy
 
 > "I believe that code should not only be efficient and secure but should also solve genuine human challenges. The most powerful systems are those that protect user privacy while delivering seamless, high-performance user experiences."
-
