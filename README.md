@@ -17,7 +17,7 @@
   <a href="mailto:prsnlkalyan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://kalyan-1845.github.io/kalyan-s-portfolio/">
+  <a href="https://kalyanport.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
